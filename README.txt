@@ -1,0 +1,3 @@
+Calculator app select if you want to add or divide ...
+then select you 1 and second number
+
